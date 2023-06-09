@@ -1,0 +1,15 @@
+.cardsContainer{
+    display: inline-block;
+    flex-direction: row;
+    justify-content: space-between;
+    background-size: cover;
+    padding: 16px;
+    display: flex;
+    gap: 16px;
+    justify-items: center;
+    align-items: stretch;
+    align-content: center;
+    height: 100vh;
+    }
+
+    
